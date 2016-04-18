@@ -1,5 +1,5 @@
 # merhaba
 bu benim ilk kod denemem
-ne yapacğımı henüz bilmiyorum
+ne yapacağımı henüz bilmiyorum
 Selamlar
 
